@@ -1,0 +1,6 @@
+name: OseMinePlugin
+version: '${project.version}'
+main: net.osemine.osemineplugin.Main
+api-version: 1.16
+authors: [ OseMine ]
+description: Plugin for Minecraft
